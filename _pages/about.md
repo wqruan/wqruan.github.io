@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-I  am an firtst-year PH.D. student in Softerware school, Fudan University. My supervisor is [Prof. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/). 
+I  am a firtst-year PH.D. student in Computer Science school, Fudan University. My supervisor is [Prof. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/). 
 
 My research interests include Differential Privacy, Secure Multi-party Computation. 
