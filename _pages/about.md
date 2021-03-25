@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-I  am an undergraduate student in Softerware school, Fudan University and will graduate in summer 2020. After graduation, I will continue my study in Fudan University as a PHD student, under supervision of [Prof. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/). 
+I  am an firtst-year PH.D. student in Softerware school, Fudan University. My supervisor is [Prof. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/). 
 
-My research interests include privacy protection, privacy compliance. 
+My research interests include Differential Privacy, Secure Multi-party Computation. 
