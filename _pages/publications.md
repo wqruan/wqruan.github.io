@@ -9,8 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=U0t_S6QAAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+## Preprint
+**SoK: Training Machine Learning Models over Multiple Sources with Privacy Preservation**
+Lushan Song, Haoqi Wu, **Wenqiang Ruan**, Weili Han
+[arxiv](https://arxiv.org/pdf/2012.03386)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Privacy Compliance: Can Technology Come to the Rescue?**
+**Wenqiang Ruan**; Mingxin Xu; Haoyang Jia; Zhenhuan Wu; LuShan Song; Weili Han
+In IEEE Security & Privacy 2021 [link](http://homepage.fudan.edu.cn/wlhan/files/2021/06/PrivacyCompliance.pdf)
