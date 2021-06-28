@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-I  am a firtst-year PH.D. student in Computer Science school, Fudan University. My supervisor is [Prof. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/). 
+I  am a firtst-year PH.D. student in Computer Science school, Fudan University. My supervisor is [Prof. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/). I obtained my Bachelor's degree from Fudan University, under the supervision of Prof.Yunlei Zhao.
 
-My research interests include Differential Privacy, Secure Multi-party Computation. 
+My research interests include Differential Privacy and Secure Multi-party Computation, especially their application on privacy-preserving machine learning.
