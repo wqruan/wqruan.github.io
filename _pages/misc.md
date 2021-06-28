@@ -8,7 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-## Paper Recommendation
+
+## Blogs
+[1. Efficient Oblivious Transfer Protocols -SODA 2001 高效的不经意传输](https://zhuanlan.zhihu.com/p/376520329)
+
+
+
+<!-- ## Paper Recommendation
 
 I am interested in privacy compliance problem and list some related papers here
 
@@ -53,4 +59,4 @@ I am interested in privacy compliance problem and list some related papers here
 [5. Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with POLICHECK. Usenix Security Symposium 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/andow)
 
 [6. Soteria: A Provably Compliant User Right ManagerUsing a Novel Two-Layer Blockchain Technolog. VLDB 2020](https://arxiv.org/abs/2003.10128)
-
+ -->
