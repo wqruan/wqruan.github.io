@@ -16,6 +16,7 @@ author_profile: true
 Lushan Song, Haoqi Wu, **Wenqiang Ruan**, Weili Han
 [arxiv](https://arxiv.org/pdf/2012.03386)
 
+## Magazine
 **Privacy Compliance: Can Technology Come to the Rescue?**
 **Wenqiang Ruan**; Mingxin Xu; Haoyang Jia; Zhenhuan Wu; LuShan Song; Weili Han
 In IEEE Security & Privacy 2021 [link](http://homepage.fudan.edu.cn/wlhan/files/2021/06/PrivacyCompliance.pdf)
