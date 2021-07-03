@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+{% include base_path %}
 
 I  am a firtst-year PH.D. student in Computer Science school, Fudan University. My supervisor is [Prof. WeiLi Han](http://homepage.fudan.edu.cn/wlhan/). I obtained my Bachelor's degree from Fudan University, under the supervision of Prof.Weili Han.
 
