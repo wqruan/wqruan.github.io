@@ -20,3 +20,8 @@ Lushan Song, Haoqi Wu, **Wenqiang Ruan**, Weili Han
 **Privacy Compliance: Can Technology Come to the Rescue?**
 **Wenqiang Ruan**; Mingxin Xu; Haoyang Jia; Zhenhuan Wu; LuShan Song; Weili Han
 In IEEE Security & Privacy 2021 [link](http://homepage.fudan.edu.cn/wlhan/files/2021/06/PrivacyCompliance.pdf)
+
+## Conference
+**Digit Semantics based Optimization for Practical Password Cracking Tools**
+Haodong Zhang, Chuanwang Wang, **Wenqiang Ruan**, Junjie Zhang, Ming Xu, Weili Han
+In Annual Computer Security Applications Conference (ACSAC ’21) [link](https://doi.org/10.1145/3485832.3488025)
