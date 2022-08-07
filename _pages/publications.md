@@ -16,18 +16,14 @@ author_profile: true
 
 
 ## Conference
-**Digit Semantics based Optimization for Practical Password Cracking Tools**, Haodong Zhang; Chuanwang Wang; **Wenqiang Ruan**; Junjie Zhang; Ming Xu; Weili Han
-,In Annual Computer Security Applications Conference (ACSAC ’21) [link](https://doi.org/10.1145/3485832.3488025)
+**Digit Semantics based Optimization for Practical Password Cracking Tools**; Haodong Zhang, Chuanwang Wang, **Wenqiang Ruan**, Junjie Zhang, Ming Xu, Weili Han; In Annual Computer Security Applications Conference (ACSAC ’21) [link](https://doi.org/10.1145/3485832.3488025)
 
-**Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy**, **Wenqiang Ruan**; Mingxin Xu; Wenjing Fang; Li Wang; Lei Wang; Weili Han
-,In Proceedings of The 44th IEEE Symposium on Security and Privacy (IEEE S&P 2023) To appear
+**Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy**; **Wenqiang Ruan**, Mingxin Xu, Wenjing Fang, Li Wang, Lei Wang; Weili Han; In Proceedings of The 44th IEEE Symposium on Security and Privacy (IEEE S&P 2023) To appear
 
 ## Journal
 
-**Towards Understanding the Fairness of Differentially Private Margin Classifiers**, **Wenqiang Ruan**; Mingxin Xu; Yinan Jing; Weili Han
-,In World Wide Web Journal (WWWJ), 2022 [link](https://link.springer.com/article/10.1007/s11280-022-01088-1) 
+**Towards Understanding the Fairness of Differentially Private Margin Classifiers**; **Wenqiang Ruan**, Mingxin Xu, Yinan Jing, Weili Han; In World Wide Web Journal (WWWJ), 2022 [link](https://link.springer.com/article/10.1007/s11280-022-01088-1) 
 ## Magazine
-**Privacy Compliance: Can Technology Come to the Rescue?**, **Wenqiang Ruan**; Mingxin Xu; Haoyang Jia; Zhenhuan Wu; LuShan Song; Weili Han
-,In IEEE Security & Privacy 2021 [link](http://homepage.fudan.edu.cn/wlhan/files/2021/06/PrivacyCompliance.pdf)
+**Privacy Compliance: Can Technology Come to the Rescue?**; **Wenqiang Ruan**, Mingxin Xu, Haoyang Jia, Zhenhuan Wu, LuShan Song, Weili Han; In IEEE Security & Privacy 2021 [link](http://homepage.fudan.edu.cn/wlhan/files/2021/06/PrivacyCompliance.pdf)
 ## Preprint
-**SoK: Training Machine Learning Models over Multiple Sources with Privacy Preservation**, Lushan Song; Haoqi Wu; **Wenqiang Ruan**; Weili Han [arxiv](https://arxiv.org/pdf/2012.03386)
+**SoK: Training Machine Learning Models over Multiple Sources with Privacy Preservation**; Lushan Song, Haoqi Wu, **Wenqiang Ruan**, Weili Han [arxiv](https://arxiv.org/pdf/2012.03386)
