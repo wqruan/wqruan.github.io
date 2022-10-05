@@ -14,4 +14,4 @@ I  am a third-year Ph.D. student in Computer Science school, Fudan University. M
 
 My research interests include Differential Privacy and Secure Multi-party Computation, especially their application on privacy-preserving machine learning.
 
-Last Updated: 10 5th, 2022
+Last Updated: October 5th, 2022
