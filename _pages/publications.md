@@ -18,7 +18,7 @@ author_profile: true
 ## Conference
 **Digit Semantics based Optimization for Practical Password Cracking Tools**; Haodong Zhang, Chuanwang Wang, **Wenqiang Ruan**, Junjie Zhang, Ming Xu, Weili Han; In Annual Computer Security Applications Conference (ACSAC ’21) [link](https://doi.org/10.1145/3485832.3488025)
 
-**pMPL: A Robust Multi-Party Learning Framework with a Privileged Party**; Lushan Song, Jiaxuan Wang, Zhexuan Wang, Xinyu Tu, Guopeng Lin, **Wenqiang Ruan**, Haoqi Wu, Weili Han; In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security November 7--11, 2022 (ACM CCS 2022) To appear
+**pMPL: A Robust Multi-Party Learning Framework with a Privileged Party**; Lushan Song, Jiaxuan Wang, Zhexuan Wang, Xinyu Tu, Guopeng Lin, **Wenqiang Ruan**, Haoqi Wu, Weili Han; In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security November 7--11, 2022 (ACM CCS 2022) [link](https://arxiv.org/pdf/2210.00486)
 
 **Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential  Privacy**; **Wenqiang Ruan**, Mingxin Xu, Wenjing Fang, Li Wang, Lei Wang, Weili Han; In Proceedings of The 44th IEEE Symposium on Security and Privacy (IEEE S&P 2023) [link](https://arxiv.org/abs/2208.08662)
 
