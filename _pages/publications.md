@@ -25,6 +25,9 @@ author_profile: true
 ## Journal
 
 **Towards Understanding the Fairness of Differentially Private Margin Classifiers**; **Wenqiang Ruan**, Mingxin Xu, Yinan Jing, Weili Han; In World Wide Web Journal (WWWJ), 2022 [link](https://link.springer.com/article/10.1007/s11280-022-01088-1) 
+
+**Secure Multi-party Learning: From Secure Computation to Secure Learning**; Weili Han, Lushan Song, **Wenqiang Ruan**, Guopeng Lin, Zhexuan Wang; In Journal of Computer Science and Technology, 2023
+
 ## Magazine
 **Privacy Compliance: Can Technology Come to the Rescue?**; **Wenqiang Ruan**, Mingxin Xu, Haoyang Jia, Zhenhuan Wu, LuShan Song, Weili Han; In IEEE Security & Privacy 2021 [link](http://homepage.fudan.edu.cn/wlhan/files/2021/06/PrivacyCompliance.pdf)
 ## Preprint
