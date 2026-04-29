@@ -16,6 +16,10 @@ author_profile: true
 
 
 ## Conference
+**HawkEye: Statically and Accurately Profiling the Communication Cost of Models in Multi-party Learning**. **Wenqiang Ruan**, Xin Lin, Ruisheng Zhou, Guopeng Lin, Shui Yu, Weili Han. In Proceedings of the 34th USENIX Security, Seattle, WA, USA, August 13–15, 2025: 2673-2691.
+
+**Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization**. Guopeng Lin, Weili Han, **Wenqiang Ruan**, Ruisheng Zhou, Lushan Song, Bingshuai Li, Yunfeng Shao. In Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS 2024), Salt Lake City, UT, USA, October 14-18, 2024: 4376–4390.  **(Distinguished Artifact Award)**
+
 **Digit Semantics based Optimization for Practical Password Cracking Tools**; Haodong Zhang, Chuanwang Wang, **Wenqiang Ruan**, Junjie Zhang, Ming Xu, Weili Han; In Annual Computer Security Applications Conference (ACSAC ’21) [link](https://doi.org/10.1145/3485832.3488025)
 
 **pMPL: A Robust Multi-Party Learning Framework with a Privileged Party**; Lushan Song, Jiaxuan Wang, Zhexuan Wang, Xinyu Tu, Guopeng Lin, **Wenqiang Ruan**, Haoqi Wu, Weili Han; In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security November 7--11, 2022 (ACM CCS 2022) [link](https://arxiv.org/pdf/2210.00486)
